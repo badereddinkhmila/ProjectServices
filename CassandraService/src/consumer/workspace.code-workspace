@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../../../../EmqxCluster/js-broker"
+		},
+		{
+			"path": "../../../../../Documents/symfonyphp_copie"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "Avc project PG_SQL_DB",
+				"database": "avc_db",
+				"username": "badrouch",
+				"password": "baderbadrouch15"
+			},
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "Ecommerce api",
+				"database": "ecommerce_database",
+				"username": "postgres",
+				"password": "B@derB@drouch15"
+			}
+		],
+		"window.autoDetectColorScheme": true
+	}
+}
